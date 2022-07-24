@@ -11,10 +11,10 @@ Use an API to retrieve exchange rate data.
 Allow bot to save user input as variable.
 Send to the user the output accordingly.
 ### What the Bot can do
-/start: starts the bot; shows an inline menu for the user.
- Convert Currency: converts the value in the given currency to another.
- Compound Interest: calculates the compound interest given the principal, rate, intervals, and years.
- View Rates: view the conversion rate between one currency to another.
-/help: view a list of commands and their descriptions.
-/allrates: view all rates available for a given currency 
-/quota: view the number of requests remaining for the month
+- /start: starts the bot; shows an inline menu for the user.
+  1. __Convert Currency__: converts the value in the given currency to another.
+  2. __Compound Interest__: calculates the compound interest given the principal, rate, intervals, and years.
+  3. __View Rates__: view the conversion rate between one currency to another.
+- /help: view a list of commands and their descriptions.
+- /allrates: view all rates available for a given currency 
+- /quota: view the number of requests remaining for the month
